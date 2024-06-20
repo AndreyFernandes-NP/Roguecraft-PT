@@ -7,7 +7,7 @@
   "enchantment.level.0": "0",
   "block.minecraft.structure_void": "Pontos de Skill",
   "block.minecraft.structure_block": "Gema de Skill",
-  "container.enderchest": "\uEff2\uF80A    Equipamento",
+  "container.enderchest": "\uEff2\uF80A    Equipamentos",
 
   "roguecraft.generic.loadout": "Equipamento",
   "roguecraft.generic.cost": "Custo",
@@ -49,7 +49,7 @@
 
   "roguecraft.compass.fortress": "Fortaleza do Nether",
   "roguecraft.compass.stronghold": "Fortaleza",
-  "roguecraft.compass.nether": "Fortalizador do Nether",
+  "roguecraft.compass.nether": "Frtaleza do Nether",
   "roguecraft.compass.entry": "Nether",     // Como não testei, não sei quando essa tradução aparece, então vai ficar assim (como no original)
 
   "roguecraft.title.victory": "Vitória!",
